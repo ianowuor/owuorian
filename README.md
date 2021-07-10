@@ -1,4 +1,4 @@
-<img src = "https://avatars.githubusercontent.com/u/71072271?s=400&u=f126d6ae017f95ff8b28ff6124d54c4f8b4b348b&v=4" alt = "Owuor Ian profile picture> 
+<img src = "https://avatars.githubusercontent.com/u/71072271?s=400&u=f126d6ae017f95ff8b28ff6124d54c4f8b4b348b&v=4" alt = "Owuor Ian profile picture"> 
                                                                                                                           <p>Hi there, I'm Owuor Ian</p>
                                                                                                                           <p>I’m interested in Python, JavaScript, C# and Java.</p>
                                                                                                                           <p>I’m currently learning Python.</p>

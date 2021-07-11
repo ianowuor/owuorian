@@ -2,7 +2,8 @@
                                                                                                                           <p>Hi there, I'm Owuor Ian</p>
                                                                                                                           <p>I’m interested in Python, JavaScript, C# and Java.</p>
                                                                                                                           <p>I’m currently learning Python.</p>
-                                                                                                                          <p>How to reach me twitter <a href= "https://twitter.com/officialowuor">@officialowuor</a></p>
+                                                                                                                          <p>Reach me on twitter <a href= "https://twitter.com/officialowuor">@officialowuor</a></p>
+                                                                                                                          <p>Or visit my website <a href="https://owuorian.netlify.app/">owuorian.netlify.app</a></p>
 
 <!---
 owuorian/owuorian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

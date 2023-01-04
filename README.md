@@ -1,4 +1,4 @@
-<p>I'm <b>Owuor Ian</b> from Nairobi Kenya</p>
+<p>I'm <b><span style='color: green'>Owuor Ian</span></b> from Nairobi Kenya</p>
 <p>I’m interested in Python, JavaScript, C# and Java</p>
 <p>Reach me on twitter <a href= "https://twitter.com/officialowuor" target="_blank">@officialowuor</a></p>
 <p>Or visit my website <a href="https://owuorian.github.io" target="_blank">owuorian.github.io</a></p>

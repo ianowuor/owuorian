@@ -1,9 +1,23 @@
-<p>I'm <b><span style='color: green'>Owuor Ian</span></b> from Nairobi Kenya</p>
-<p>I’m interested in Python, JavaScript, C# and Java</p>
-<p>Reach me on twitter <a href= "https://twitter.com/officialowuor" target="_blank">@officialowuor</a></p>
-<p>Or visit my website <a href="https://owuorian.github.io" target="_blank">owuorian.github.io</a></p>
+# Hi there 👋, I'm [Your Name]
 
-<!---
-owuorian/owuorian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about coding and building things that make a difference.
+
+🌱 I’m currently learning [Technology/Framework]
+👯 I’m looking to collaborate on open source projects
+📫 How to reach me: [Email](mailto:youremail@example.com) | [LinkedIn](https://www.linkedin.com/in/yourusername/) | [Website](https://www.yourwebsite.com)
+
+## 🔧 Technologies & Tools
+
+![Tech1](https://img.shields.io/badge/-Technology-blue)
+![Tech2](https://img.shields.io/badge/-Technology-orange)
+![Tech3](https://img.shields.io/badge/-Technology-red)
+![Tool1](https://img.shields.io/badge/-Tool-yellow)
+![Tool2](https://img.shields.io/badge/-Tool-green)
+
+## 🏆 GitHub Stats
+
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+
+## 📊 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)

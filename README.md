@@ -4,13 +4,13 @@ Passionate about coding and building things that make a difference.
 
 🌱 I’m currently learning [Technology/Framework]
 👯 I’m looking to collaborate on open source projects
-📫 How to reach me: [Email](mailto:youremail@example.com) | [LinkedIn](https://www.linkedin.com/in/yourusername/) | [Website](https://www.yourwebsite.com)
+📫 How to reach me: [Email](mailto:owuorian95@example.com) | [LinkedIn](https://www.linkedin.com/in/ianowuor/) 
 
 ## 🔧 Technologies & Tools
 
-![Tech1](https://img.shields.io/badge/-Technology-blue)
-![Tech2](https://img.shields.io/badge/-Technology-orange)
-![Tech3](https://img.shields.io/badge/-Technology-red)
-![Tool1](https://img.shields.io/badge/-Tool-yellow)
-![Tool2](https://img.shields.io/badge/-Tool-green)
+![Python](https://img.shields.io/badge/-Technology-blue)
+![JavaScript](https://img.shields.io/badge/-Technology-orange)
+![PHP](https://img.shields.io/badge/-Technology-red)
+![Django](https://img.shields.io/badge/-Tool-yellow)
+![REACT](https://img.shields.io/badge/-Tool-green)
 

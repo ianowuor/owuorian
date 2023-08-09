@@ -14,10 +14,3 @@ Passionate about coding and building things that make a difference.
 ![Tool1](https://img.shields.io/badge/-Tool-yellow)
 ![Tool2](https://img.shields.io/badge/-Tool-green)
 
-## 🏆 GitHub Stats
-
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
-
-## 📊 Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
